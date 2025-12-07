@@ -1,0 +1,112 @@
+[
+    {
+        "id": 1,
+        "title": "Understanding Next.js Routing",
+        "slug": "understanding-nextjs-routing",
+        "image": "/images/next-routing.jpg",
+        "category": "Web Development",
+        "author": "Abidur Rahman",
+        "date": "2025-01-12",
+        "shortDescription": "Learn how routing works in Next.js using file-based system and dynamic routes.",
+        "content": "Next.js uses a powerful file-system based routing. In this post we explore dynamic routes, nested routes, and catch-all segments..."
+    },
+    {
+        "id": 2,
+        "title": "10 Tips to Improve JavaScript Skills",
+        "slug": "10-tips-to-improve-javascript-skills",
+        "image": "/images/js-tips.jpg",
+        "category": "JavaScript",
+        "author": "John Miller",
+        "date": "2025-01-10",
+        "shortDescription": "Boost your JavaScript skills by following these simple but effective tips.",
+        "content": "JavaScript is essential for every web developer. Improving your skills requires practice, understanding ES6 features, and building projects..."
+    },
+    {
+        "id": 3,
+        "title": "CSS Tricks Every Developer Should Know",
+        "slug": "css-tricks-every-developer-should-know",
+        "image": "/images/css-tricks.jpg",
+        "category": "CSS",
+        "author": "Sadia Islam",
+        "date": "2025-01-09",
+        "shortDescription": "A list of useful CSS tricks that can make styling faster and easier.",
+        "content": "CSS gives you full control over styling. From flexbox to grid, pseudo-elements, animations, and transitions, these tricks help you improve UI fast..."
+    },
+    {
+        "id": 4,
+        "title": "How to Use API Routes in Next.js",
+        "slug": "how-to-use-api-routes-in-nextjs",
+        "image": "/images/api-routes.jpg",
+        "category": "Backend",
+        "author": "Michael Lee",
+        "date": "2025-01-08",
+        "shortDescription": "API routes let you build backend functionality inside Next.js.",
+        "content": "With API routes, you can handle form submissions, create CRUD operations, and integrate with external services—all inside your Next.js project..."
+    },
+    {
+        "id": 5,
+        "title": "Why UI/UX Matters for Modern Websites",
+        "slug": "why-uiux-matters-for-websites",
+        "image": "/images/uiux.jpg",
+        "category": "Design",
+        "author": "Amina Khatun",
+        "date": "2025-01-07",
+        "shortDescription": "UI/UX plays a huge role in user satisfaction and website success.",
+        "content": "Understanding user behavior and designing responsive, intuitive layouts helps businesses achieve better conversions and engagement..."
+    },
+    {
+        "id": 6,
+        "title": "Getting Started With Git and GitHub",
+        "slug": "getting-started-with-git-github",
+        "image": "/images/git.jpg",
+        "category": "Tools",
+        "author": "Abidur Rahman",
+        "date": "2025-01-06",
+        "shortDescription": "A beginner-friendly guide to Git version control and GitHub workflows.",
+        "content": "Git helps developers track changes and collaborate. This guide explains commits, branches, pull requests, and basic GitHub usage..."
+    },
+    {
+        "id": 7,
+        "title": "Building Reusable Components in React",
+        "slug": "building-reusable-react-components",
+        "image": "/images/react-components.jpg",
+        "category": "React",
+        "author": "John Miller",
+        "date": "2025-01-05",
+        "shortDescription": "Reusable components make your React projects cleaner and faster to build.",
+        "content": "Component reusability is a key part of modern React development. Learn props, children, context, and good structure patterns..."
+    },
+    {
+        "id": 8,
+        "title": "Understanding State Management",
+        "slug": "understanding-state-management",
+        "image": "/images/state-management.jpg",
+        "category": "JavaScript",
+        "author": "Sadia Islam",
+        "date": "2025-01-04",
+        "shortDescription": "A clear explanation of state, props, and how to manage them efficiently.",
+        "content": "State management is essential for dynamic UI. From React state to Redux, Zustand, and server components—this post explains it simply..."
+    },
+    {
+        "id": 9,
+        "title": "How to Optimize Images in Next.js",
+        "slug": "how-to-optimize-images-nextjs",
+        "image": "/images/image-optimization.jpg",
+        "category": "Performance",
+        "author": "Michael Lee",
+        "date": "2025-01-03",
+        "shortDescription": "Next.js Image component makes image optimization easy and automatic.",
+        "content": "Using the Next.js Image component improves performance with lazy loading, responsive images, and automatic resizing..."
+    },
+    {
+        "id": 10,
+        "title": "Dark Mode in Tailwind CSS",
+        "slug": "dark-mode-in-tailwind-css",
+        "image": "/images/dark-mode.jpg",
+        "category": "Tailwind",
+        "author": "Amina Khatun",
+        "date": "2025-01-02",
+        "shortDescription": "Dark mode is easy to enable using Tailwind’s class-based system.",
+        "content": "Tailwind provides a simple way to enable dark mode using the `dark:` prefix. This guide shows how to toggle themes dynamically..."
+    }
+]
